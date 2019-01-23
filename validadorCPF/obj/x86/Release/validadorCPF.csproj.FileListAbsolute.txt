@@ -1,0 +1,3 @@
+/home/rodrigo/Projects/validadorCPF/validadorCPF/bin/Release/validadorCPF.exe
+/home/rodrigo/Projects/validadorCPF/validadorCPF/obj/x86/Release/validadorCPF.csproj.CoreCompileInputs.cache
+/home/rodrigo/Projects/validadorCPF/validadorCPF/obj/x86/Release/validadorCPF.exe

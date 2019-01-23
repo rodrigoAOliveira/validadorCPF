@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "validadorCPF", "validadorCPF\validadorCPF.csproj", "{6DF71A2F-904C-4472-9ADB-E603F94F4A46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF71A2F-904C-4472-9ADB-E603F94F4A46}.Debug|x86.ActiveCfg = Debug|x86
+		{6DF71A2F-904C-4472-9ADB-E603F94F4A46}.Debug|x86.Build.0 = Debug|x86
+		{6DF71A2F-904C-4472-9ADB-E603F94F4A46}.Release|x86.ActiveCfg = Release|x86
+		{6DF71A2F-904C-4472-9ADB-E603F94F4A46}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

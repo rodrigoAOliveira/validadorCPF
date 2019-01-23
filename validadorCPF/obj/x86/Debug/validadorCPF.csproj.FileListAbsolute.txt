@@ -1,0 +1,6 @@
+/home/rodrigo/Projects/validadorCPF/validadorCPF/bin/Debug/validadorCPF.exe
+/home/rodrigo/Projects/validadorCPF/validadorCPF/bin/Debug/validadorCPF.pdb
+/home/rodrigo/Projects/validadorCPF/validadorCPF/obj/x86/Debug/validadorCPF.csprojAssemblyReference.cache
+/home/rodrigo/Projects/validadorCPF/validadorCPF/obj/x86/Debug/validadorCPF.csproj.CoreCompileInputs.cache
+/home/rodrigo/Projects/validadorCPF/validadorCPF/obj/x86/Debug/validadorCPF.exe
+/home/rodrigo/Projects/validadorCPF/validadorCPF/obj/x86/Debug/validadorCPF.pdb

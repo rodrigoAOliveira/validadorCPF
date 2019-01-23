@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6DF71A2F-904C-4472-9ADB-E603F94F4A46}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="validadorCPF/Program.cs">
+    <Files>
+      <File FileName="validadorCPF/Program.cs" Line="30" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.validadorCPF FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
